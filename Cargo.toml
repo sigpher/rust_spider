@@ -11,3 +11,5 @@ reqwest = {version="*"}
 tokio = {version="*", features=["full"]}
 scraper = "*"
 config = "*"
+serde = {version="*", features=["derive"]}
+toml = "*"

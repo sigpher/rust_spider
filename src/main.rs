@@ -1,11 +1,14 @@
-use config::Config;
 use scraper::{Html, Selector};
-use std::{error::Error, process};
+use serde::Deserialize;
+use serde::Serialize;
+use std::{error::Error, fs, process};
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let config = get_config();
-    let base = config.get_string("base").unwrap();
-    let total_pages = config.get_int("pages").unwrap() as u32;
+    // let base = config.get_string("base").unwrap();
+    // let total_pages = config.get_int("pages").unwrap() as u32;
+    let base = config.base;
+    let total_pages = config.pages;
 
     // let links = pages("https://ssr1.scrape.center/page", 10);
     let links = pages(&base, total_pages);
@@ -46,10 +49,16 @@ async fn scrape_page(url: &str) -> String {
     html
 }
 
-fn get_config() -> Config {
-    let settings = Config::builder()
-        .add_source(config::File::with_name("settings"))
-        .build()
-        .unwrap();
+fn get_config() -> SettingsStruct {
+    // let settings = Config::builder()
+    //     .add_source(config::File::with_name("settings"))
+    //     .build()
+    //     .unwrap();
+    let settings = toml::from_str(&fs::read_to_string("settings.toml").unwrap()).unwrap();
     settings
+}
+#[derive(Serialize, Deserialize, Debug)]
+pub struct SettingsStruct {
+    pub base: String,
+    pub pages: u32,
 }

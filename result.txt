@@ -1,0 +1,100 @@
+title:上帝之城 - Cidade de Deus
+title:活着 - To Live
+title:辩护人 - 변호인
+title:机器人总动员 - WALL·E
+title:忠犬八公物语 - ハチ公物語
+title:天堂电影院 - Nuovo Cinema Paradiso
+title:海豚湾 - The Cove
+title:指环王2：双塔奇兵 - The Lord of the Rings: The Two Towers
+title:英雄本色 - A Better Tomorrow
+title:指环王1：护戒使者 - The Lord of the Rings: The Fellowship of the Ring
+title:恐怖直播 - 더 테러 라이브
+title:射雕英雄传之东成西就 - The Eagle Shooting Heroes
+title:窃听风暴 - Das Leben der Anderen
+title:蝙蝠侠：黑暗骑士 - The Dark Knight
+title:时空恋旅人 - About Time
+title:无间道 - Infernal Affairs
+title:穿条纹睡衣的男孩 - The Boy in the Striped Pajamas
+title:教父2 - The Godfather: Part Ⅱ
+title:教父 - The Godfather
+title:加勒比海盗 - Pirates of the Caribbean: The Curse of the Black Pearl
+title:飞屋环游记 - Up
+title:黑客帝国3：矩阵革命 - The Matrix Revolutions
+title:速度与激情5 - Fast Five
+title:勇敢的心 - Braveheart
+title:三傻大闹宝莱坞 - 3 Idiots
+title:闻香识女人 - Scent of a Woman
+title:末代皇帝 - The Last Emperor
+title:风之谷 - 風の谷のナウシカ
+title:大话西游之月光宝盒 - A Chinese Odyssey
+title:放牛班的春天 - Les choristes
+title:V字仇杀队 - V for Vendetta
+title:少年派的奇幻漂流 - Life of Pi
+title:美丽心灵 - A Beautiful Mind
+title:初恋这件小事 - สิ่งเล็กเล็กที่เรียกว่า...รัก
+title:借东西的小人阿莉埃蒂 - 借りぐらしのアリエッティ
+title:一一 - Yi yi: A One and a Two
+title:美丽人生 - La vita è bella
+title:海上钢琴师 - La leggenda del pianista sull'oceano
+title:千与千寻 - 千と千尋の神隠し
+title:迁徙的鸟 - The Travelling Birds
+title:霸王别姬 - Farewell My Concubine
+title:这个杀手不太冷 - Léon
+title:肖申克的救赎 - The Shawshank Redemption
+title:泰坦尼克号 - Titanic
+title:罗马假日 - Roman Holiday
+title:唐伯虎点秋香 - Flirting Scholar
+title:乱世佳人 - Gone with the Wind
+title:喜剧之王 - The King of Comedy
+title:楚门的世界 - The Truman Show
+title:狮子王 - The Lion King
+title:哈利·波特与死亡圣器（下） - Harry Potter and the Deathly Hallows: Part 2
+title:甜蜜蜜 - Comrades: Almost a Love Story
+title:蝙蝠侠：黑暗骑士崛起 - The Dark Knight Rises
+title:鬼子来了 - Devils on the Doorstep
+title:无敌破坏王 - Wreck-It Ralph
+title:致命魔术 - The Prestige
+title:神偷奶爸 - Despicable Me
+title:断背山 - Brokeback Mountain
+title:怦然心动 - Flipped
+title:驯龙高手 - How to Train Your Dragon
+title:哈利·波特与魔法石 - Harry Potter and the Sorcerer's Stone
+title:指环王3：王者无敌 - The Lord of the Rings: The Return of the King
+title:黑客帝国 - The Matrix
+title:剪刀手爱德华 - Edward Scissorhands
+title:春光乍泄 - Happy Together
+title:大闹天宫 - The Monkey King
+title:天空之城 - 天空の城ラピュタ
+title:音乐之声 - The Sound of Music
+title:辛德勒的名单 - Schindler's List
+title:魂断蓝桥 - Waterloo Bridge
+title:黄金三镖客 - Il buono, il brutto, il cattivo.
+title:海洋 - Océans
+title:我爱你 - 그대를 사랑합니다
+title:阿飞正传 - Days of Being Wild
+title:7号房的礼物 - 7번방의 선물
+title:爱·回家 - 집으로...
+title:龙猫 - となりのトトロ
+title:七武士 - 七人の侍
+title:美国往事 - Once Upon a Time in America
+title:完美的世界 - A Perfect World
+title:当幸福来敲门 - The Pursuit of Happyness
+title:幽灵公主 - もののけ姫
+title:十二怒汉 - 12 Angry Men
+title:搏击俱乐部 - Fight Club
+title:疯狂原始人 - The Croods
+title:阿凡达 - Avatar
+title:哈尔的移动城堡 - ハウルの動く城
+title:盗梦空间 - Inception
+title:忠犬八公的故事 - Hachi: A Dog's Tale
+title:拯救大兵瑞恩 - Saving Private Ryan
+title:萤火之森 - 蛍火の杜へ
+title:素媛 - 소원
+title:小鞋子 - بچههای آسمان
+title:熔炉 - 도가니
+title:大话西游之大圣娶亲 - A Chinese Odyssey Part Two - Cinderella
+title:新龙门客栈 - New Dragon Gate Inn
+title:触不可及 - Intouchables
+title:钢琴家 - The Pianist
+title:本杰明·巴顿奇事 - The Curious Case of Benjamin Button
+title:倩女幽魂 - A Chinese Ghost Story
