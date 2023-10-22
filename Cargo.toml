@@ -7,9 +7,9 @@ edition = "2021"
 
 [dependencies]
 
-reqwest = {version="*"}
-tokio = {version="*", features=["full"]}
+reqwest = { version = "*" }
+tokio = { version = "*", features = ["full"] }
 scraper = "*"
 config = "*"
-serde = {version="*", features=["derive"]}
+serde = { version = "*", features = ["derive"] }
 toml = "*"
